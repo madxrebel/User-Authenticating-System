@@ -1,4 +1,4 @@
-UASystem (User Authentication System)
+# UASystem (User Authentication System)
 
 **Description**:  
 UASystem is a secure user authentication system built with PHP and MySQL, providing functionality for user registration and login. The system is designed to ensure data integrity and security using industry-standard practices.
